@@ -19,5 +19,3 @@ def categorize_by_age(age: int) -> str:
         return "Golden age"
     else:
         return f"Invalid age: {age}"
-
-# Hello There!
